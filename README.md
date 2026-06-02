@@ -51,35 +51,8 @@ Replace YOUR_VIDEO_ID with your actual YouTube video ID
 
 ### Prerequisites
 
-- Node.js version 14 or higher
-- npm or yarn package manager
-- MongoDB or MySQL database
-- Git for version control
 
 ### Setup Instructions
-
-Step 1: Clone the Repository
-
-Download the project from GitHub to your local machine
-
-Step 2: Install Dependencies
-
-Open terminal in project directory and install all required packages
-
-Step 3: Environment Configuration
-
-Create a .env file in the root directory and configure your database credentials, JWT secret, email settings, and API keys
-
-Step 4: Database Setup
-
-Run database migration and seed initial data
-
-Step 5: Start the Application
-
-Run the development server to start the application on your local machine
-
-The application will be available at http://localhost:5000
-
 ## Usage
 
 For Patients:
