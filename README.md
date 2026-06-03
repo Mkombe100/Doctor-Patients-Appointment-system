@@ -1,4 +1,4 @@
-# Smart Health Appointment System
+# Doctor-Patients-Appointment-System
 
 A comprehensive healthcare appointment management system designed to streamline patient scheduling, doctor availability management, and appointment tracking for healthcare facilities.
 
