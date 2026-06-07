@@ -35,12 +35,6 @@ Watch the full demonstration of the Smart Health Appointment System:
 
 Replace YOUR_VIDEO_ID with your actual YouTube video ID
 
-## Installation
-
-### Prerequisites
-
-
-### Setup Instructions
 ## Usage
 
 For Patients:
@@ -80,4 +74,4 @@ Or open an issue on GitHub Issues page for bug reports and feature requests
 
 ---
 
-Current Version: 1.0.0
+Current V
